@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 1000000
+tailleuc1 = 24
+nbcl = 4
+tailleuc2 = 28
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 20
+svdmethod = irlba
+mode.patate = 0
+corpus = f30aa5a5-8076-40cc-b706-a422be013e80
+pathout = C:\Users\Carlos\Documents\PROYECTOS\mujica\corpus_mujica_corpus_1\corpus_mujica_alceste_3
+uuid = e9a5d0da-d340-42a0-b17e-9f0809934a40
+name = corpus_mujica_alceste_3
+eff_min_forme = 3
+nbactives = 15454
+clnb = 4
+time = 64h 50m 26s
+ira = C:\Users\Carlos\Documents\PROYECTOS\mujica\corpus_mujica_corpus_1\corpus_mujica_alceste_3\Analyse.ira

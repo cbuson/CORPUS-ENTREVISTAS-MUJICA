@@ -1,0 +1,19 @@
+[wordcloud]
+type = wordcloud
+lem = 1
+pathout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\mujica\mujica\corpus_mujica_corpus_1\corpus_mujica_wordcloud_2
+corpus = f30aa5a5-8076-40cc-b706-a422be013e80
+uuid = 5698a6ba-38c9-44d0-a788-37247874ec5b
+name = corpus_mujica_wordcloud_2
+width = 800
+height = 800
+maxword = 600
+mincex = 0.5
+maxcex = 5.0
+col_text = (0, 0, 0, 255)
+col_bg = (255, 255, 255, 255)
+mode = 0
+svg = 0
+graphout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\mujica\mujica\corpus_mujica_corpus_1\corpus_mujica_wordcloud_2\nuage_1.png
+time = 0h 3m 54s
+ira = C:\Users\user\OneDrive\Escritorio\PROYECTOS\mujica\mujica\corpus_mujica_corpus_1\corpus_mujica_wordcloud_2\Analyse.ira
